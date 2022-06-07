@@ -10,6 +10,6 @@ namespace BusinessLoan.Entities
     {
         public int DocumentId { get; set; }
         public string DocumentType { get; set; }
-        public string DocumentUpload { get; set; }
+        public byte[] DocumentUpload { get; set; }
     }
 }

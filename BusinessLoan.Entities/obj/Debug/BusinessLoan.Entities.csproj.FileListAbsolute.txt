@@ -1,0 +1,6 @@
+E:\Projects\vsrepos\BusinessLoan\BusinessLoan\BusinessLoan.Entities\bin\Debug\BusinessLoan.Entities.dll
+E:\Projects\vsrepos\BusinessLoan\BusinessLoan\BusinessLoan.Entities\bin\Debug\BusinessLoan.Entities.pdb
+E:\Projects\vsrepos\BusinessLoan\BusinessLoan\BusinessLoan.Entities\obj\Debug\BusinessLoan.Entities.csproj.AssemblyReference.cache
+E:\Projects\vsrepos\BusinessLoan\BusinessLoan\BusinessLoan.Entities\obj\Debug\BusinessLoan.Entities.csproj.CoreCompileInputs.cache
+E:\Projects\vsrepos\BusinessLoan\BusinessLoan\BusinessLoan.Entities\obj\Debug\BusinessLoan.Entities.dll
+E:\Projects\vsrepos\BusinessLoan\BusinessLoan\BusinessLoan.Entities\obj\Debug\BusinessLoan.Entities.pdb
